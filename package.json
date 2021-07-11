@@ -1,0 +1,16 @@
+{
+    "name": "com.shanee.dialogue",
+    "displayName": "Dialogue System",
+    "version": "0.1.0-exp.1",
+    "unity": "2021.1",
+    "unityRelease": "3f1",
+    "description": "WIP Dialogue System.",
+    "keywords": [
+      "Dialogue",
+      "Conversation"
+    ],
+    "dependencies": {
+      "com.unity.graphtools.foundation": "0.11.2-preview"
+    },
+    "registry": "https://artifactory.prd.cds.internal.unity3d.com/artifactory/api/npm/upm-candidates"
+  }
