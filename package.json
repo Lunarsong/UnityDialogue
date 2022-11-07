@@ -10,7 +10,6 @@
       "Conversation"
     ],
     "dependencies": {
-      "com.unity.graphtools.foundation": "0.11.2-preview"
     },
     "registry": "https://artifactory.prd.cds.internal.unity3d.com/artifactory/api/npm/upm-candidates"
   }

@@ -2,12 +2,8 @@
     "name": "Dialogue.Editor",
     "rootNamespace": "",
     "references": [
-        "Unity.GraphTools.Foundation.Overdrive",
-        "Unity.GraphTools.Foundation.Overdrive.Model",
-        "Unity.GraphTools.Foundation.Overdrive.Editor",
-        "Unity.GraphTools.Foundation.Overdrive.CommandStateObserver",
-        "Unity.GraphToolsFoundation.Searcher.Editor",
-        "Dialogue"
+        "Dialogue",
+        "Unity.CloudLab.Graph"
     ],
     "includePlatforms": [
         "Editor"
